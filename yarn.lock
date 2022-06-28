@@ -7,11 +7,6 @@
   resolved "https://registry.npmjs.org/@rescript/react/-/react-0.10.3.tgz"
   integrity sha512-Lf9rzrR3bQPKJjOK3PBRa/B3xrJ7CqQ1HYr9VHPVxJidarIJJFZBhj0Dg1uZURX+Wg/xiP0PHFxXmdj2bK8Vxw==
 
-"dependency-project@file:dependency-project":
-  version "0.1.0"
-  dependencies:
-    "@rescript/react" "^0.10.3"
-
 rescript@^9.1.4:
   version "9.1.4"
   resolved "https://registry.npmjs.org/rescript/-/rescript-9.1.4.tgz"

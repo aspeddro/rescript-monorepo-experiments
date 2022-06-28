@@ -2,8 +2,5 @@
   "sources": {
     "dir": "src",
     "subdirs": true
-  },
-  "pinned-dependencies": [
-    "dependency-project"
-  ]
+  }
 }
