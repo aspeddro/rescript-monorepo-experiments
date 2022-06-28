@@ -1,11 +1,6 @@
 {
-  "name": "dependency-project",
-  "version": "0.1.0",
   "sources": {
     "dir": "src",
     "subdirs": true
-  },
-  "bs-dependencies": [
-    "@rescript/react"
-  ]
+  }
 }

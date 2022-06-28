@@ -1,4 +1,7 @@
 {
   "private": true,
-  "workspaces": ["main-project", "dependency-project"]
+  "workspaces": [
+    "main-project",
+    "dependency-project"
+  ]
 }
