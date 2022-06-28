@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@rescript/react": "^0.10.3",
-    "dependency-project": "file:../dependency-project"
+    "dependency-project": "*"
   },
   "devDependencies": {
     "rescript": "^9.1.4"
